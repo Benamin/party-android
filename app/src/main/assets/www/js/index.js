@@ -38,10 +38,9 @@ var app = {
 
         listeningElement.setAttribute('style', 'display:none;');
         receivedElement.setAttribute('style', 'display:block;');
-//anna的ip
-//        setTimeout(window.location.href = 'http://192.168.1.18/mobile/index_android.html',0);
 
-        setTimeout(window.location.href = 'http://47.103.33.196:8080/app/index.html',0);
+//        setTimeout(window.location.href = 'http://47.103.33.196:8080/app/index.html',0);
+        setTimeout(window.location.href = 'http://218.78.19.169:8081/app/index.html',0);
 //        setTimeout(window.location.href = 'http://fzriskdev.adapdo.com/mobile/index_android.html',0);
 //        setTimeout(window.location.href = 'http://192.168.1.155:9088/mobile/index_android.html',0);
 //                setTimeout(window.location.href = 'http://192.168.1.29/mobile/index_android.html',0);
