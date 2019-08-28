@@ -1,0 +1,4 @@
+#Tue Aug 27 22:32:53 CST 2019
+base.0=/Users/ben/gitLab-project/party-build-cloud/platforms/android/app/build/intermediates/transforms/dex/release/0
+renamed.0=classes.dex
+file.0=/Users/ben/gitLab-project/party-build-cloud/platforms/android/app/build/intermediates/transforms/dex/release/0/classes.dex

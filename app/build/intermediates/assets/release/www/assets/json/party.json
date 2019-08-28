@@ -1,0 +1,161 @@
+[
+  {
+    "name": "最新",
+    "type": 0,
+    "indexParent": 0,
+    "children": [
+      {
+        "name": "最新发布",
+        "type": "0",
+        "indexChildren": "01"
+      }
+    ]
+  },
+  {
+    "name": "主题教育",
+    "type": 1,
+    "indexParent": 1,
+    "children": [
+      {
+        "name": "中央精神",
+        "type": 1,
+        "indexChildren": "11"
+      },
+      {
+        "name": "本市部署",
+        "type": 2,
+        "indexChildren": "12"
+      },
+      {
+        "name": "机关动态",
+        "type": 3,
+        "indexChildren": "13"
+      },
+      {
+        "name": "学习心得",
+        "type": 5,
+        "indexChildren": "14"
+      },
+      {
+        "name": "学习资料",
+        "type": 4,
+        "indexChildren": "15"
+      }
+    ]
+  },
+  {
+    "name": "机关党委",
+    "type": 5,
+    "indexParent": 2,
+    "children": [
+      {
+        "name": "通知公告",
+        "type": 5,
+        "indexChildren": "21"
+      },
+      {
+        "name": "党建动态",
+        "type": 6,
+        "indexChildren": "22"
+      },
+      {
+        "name": "工作提示",
+        "type": 7,
+        "indexChildren": "23"
+      },
+      {
+        "name": "党务参考",
+        "type": 8,
+        "indexChildren": "24"
+      }
+    ]
+  },
+  {
+    "name": "支部风采",
+    "type": 13,
+    "indexParent": 3,
+    "children": [
+      {
+        "name": "支部活动",
+        "type": 13,
+        "indexChildren": "32"
+      },
+      {
+        "name": "结对支部",
+        "type": 14,
+        "indexChildren": "33"
+      }
+    ]
+  },
+  {
+    "name": "党风廉政",
+    "type": 9,
+    "indexParent": 4,
+    "children": [
+      {
+        "name": "廉政格言",
+        "type": 9,
+        "indexChildren": "41"
+      },
+      {
+        "name": "纪检提示",
+        "type": 10,
+        "indexChildren": "42"
+      },
+      {
+        "name": "风险排查",
+        "type": 11,
+        "indexChildren": "43"
+      },
+      {
+        "name": "警示教育",
+        "type": 12,
+        "indexChildren": "44"
+      }
+    ]
+  },
+  {
+    "name": "互动交流",
+    "type": 21,
+    "indexParent": 5,
+    "children": [
+      {
+        "name": "学思践悟",
+        "type": 21,
+        "indexChildren": "51"
+      },
+      {
+        "name": "话题讨论",
+        "type": 22,
+        "indexChildren": "52"
+      },
+      {
+        "name": "你问我答",
+        "type": 24,
+        "indexChildren": "55"
+      }
+    ]
+  },
+  {
+    "name": "知识拓展",
+    "type": 16,
+    "indexParent": 6,
+    "children": [
+      {
+        "name": "视频资料",
+        "type": 16,
+        "indexChildren": "61"
+      },
+      {
+        "name": "他山之石",
+        "type": 18,
+        "indexChildren": "63"
+      },
+      {
+        "name": "综合知识",
+        "type": 19,
+        "indexChildren": "64"
+      }
+    ]
+  }
+]
